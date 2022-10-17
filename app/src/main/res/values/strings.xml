@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeFirst</string>
+    <string name="title_activity_image_full_view">ImageFullView</string>
+</resources>
